@@ -1,0 +1,25 @@
+{
+  "name": "Parions ECAM",
+  "short_name": "Parions ECAM",
+  "description": "Le PMU officieux de la prepa",
+  "start_url": "/parions-ecam/",
+  "scope": "/parions-ecam/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0d0d",
+  "theme_color": "#c8a84b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
